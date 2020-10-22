@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/LearnGatsby/`,
   siteMetadata: {
     title: `test blog title`,
     author: {
@@ -6,12 +7,13 @@ module.exports = {
       summary: `bil summary.`,
     },
     description: `bil descr.`,
-    siteUrl: `https://google.com/`,
+    siteUrl: `http://vasilisplavos.github.io/LearnGatsby/`,
     social: {
       twitter: `biltwit`,
     },
   },
   plugins: [
+    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
