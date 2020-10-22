@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: `/LearnGatsby/`,
   siteMetadata: {
     title: `test blog title`,
     author: {
