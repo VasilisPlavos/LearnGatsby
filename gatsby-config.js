@@ -7,7 +7,7 @@ module.exports = {
       summary: `bil summary.`,
     },
     description: `bil descr.`,
-    siteUrl: `http://vasilisplavos.github.io/LearnGatsby/`,
+    siteUrl: `http://vasilisplavos.github.io/learngatsby/`,
     social: {
       twitter: `biltwit`,
     },
