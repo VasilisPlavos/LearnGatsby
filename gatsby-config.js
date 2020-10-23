@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/learnlatsby",
+  pathPrefix: "/LearnGatsby",
   siteMetadata: {
     title: `test blog title`,
     author: {
@@ -7,7 +7,7 @@ module.exports = {
       summary: `bil summary.`,
     },
     description: `bil descr.`,
-    siteUrl: `http://vasilisplavos.github.io/learngatsby/`,
+    siteUrl: `http://vasilisplavos.github.io/LearnGatsby/`,
     social: {
       twitter: `biltwit`,
     },
