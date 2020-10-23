@@ -1,7 +1,7 @@
 ---
 title: title
 date: "2022-05-01T22:12:03.284Z"
-description: "descript"
+description: "description"
 ---
 Lorem Ipsum is simply dummy text of the printing
 and typesetting industry. Lorem Ipsum has been the 
